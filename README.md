@@ -54,7 +54,7 @@ The analysis highlights several key trends:
 - **Revenue concentration** is strongest in Clothing and Accessories.
 - **Subscribed customers** tend to exhibit higher overall engagement.
 - **Review ratings correlate with spending**, with higher ratings linked to higher purchase amounts.
-- **Seasonality is influential**, especially in apparel-related categories.
+- **Seasonality affects revenue**, with Summer showing the lowest total revenue.
 - **Item size preferences** show strong clustering, guiding merchandising decisions.
 - **Discounts boost order quantity**, but full-price purchases often have higher average value.
 
@@ -71,8 +71,8 @@ The analysis highlights several key trends:
 - Customers giving 4–5 star ratings tend to be **higher-value** buyers.
 
 ### 3. Seasonal Purchase Patterns
-- Fall and Winter drive the highest order volume, especially in apparel categories.
-- Summer shows lower volume but strong performance in lightweight items.
+- Order volume is relatively balanced across all seasons.
+- **Summer generates the lowest revenue**, while Fall and Winter drive the strongest performance, especially in apparel categories.
 
 ### 4. Product Size Trends
 - Majority of purchases are **M** and **L**, indicating core inventory demand.
