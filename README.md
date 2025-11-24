@@ -38,11 +38,12 @@ The analysis supports better decisions across **marketing**, **inventory**, and 
 - **Purchase Details:**  
   `item_purchased`, `category`, `purchase_amount`, `season`, `size`, `color`
 - **Shopping Behavior:**  
-  `discount_applied`, `promo_code_used`, `previous_purchases`, `purchase_frequency_days`, `review_rating`, `shipping_type`
-- **Missing Data:**  
-  37 missing values in `review_rating`
+  `discount_applied`, `previous_purchases`, `purchase_frequency_days`, `review_rating`, `shipping_type`
+- **Feature Engineering / Cleaning:**  
+  Missing values in `review_rating` were imputed with category medians.  
+  Added `age_group` and `purchase_frequency_days` columns for segmentation and analysis.
 
-This structure allowed customer segmentation, revenue analysis, seasonal trends, and behavior-based insights.
+This cleaned and enhanced dataset was used for customer segmentation, revenue analysis, seasonal trends, and behavior-based insights.
 
 ---
 
