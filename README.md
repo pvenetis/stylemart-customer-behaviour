@@ -65,6 +65,7 @@ The analysis highlights several key trends:
 ### 1. Subscription Behavior
 - Subscribed customers form a minority of the base but demonstrate **stronger purchase consistency**.
 - Non-subscribed customers contribute a larger share of one-time orders.
+- **Outliers in the rating–spend relationship** show some non-subscribed customers with high purchase amounts despite lower review ratings, highlighting opportunities for targeted engagement.
 
 ### 2. Rating–Spend Relationship
 - Scatter plot analysis shows a **positive relationship** between review ratings and average purchase amount.
